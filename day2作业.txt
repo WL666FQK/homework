@@ -1,0 +1,14 @@
+   29  sudo passwd cuihua
+   30  sudo userdel -r cuihua
+   31  cat /etc/passwd
+
+   32  ls
+   33  ls -a /root/home
+   34  ls -a /ecs-user
+   35  ls -a /ecs-user/home
+   36  ls /home
+   37  ls -l
+
+   38  pwd
+   39  history
+   41  history |tail -13 >day2作业.txt
