@@ -1,0 +1,25 @@
+  287  ls -lh
+  288  chmod 666 newfile
+  289  ls-lh
+  290  ls -lh
+  291  chmod 777 dir1
+  292  ls -lh
+
+  301  cd /bin
+  302  which ls
+
+  293  touch file
+  294  echo hello >file
+  295  ls
+  296  ls -l
+  297  ls -l /
+  298  echo hello >file
+  299  ls -l
+  300  ls -a
+  305  history
+  306  cd ~
+  307  cd day3/
+  308  ls dir1 -il
+  309  ls dir1 -ila
+  310  history
+  311  history |tail -25 >day3_history.txt
